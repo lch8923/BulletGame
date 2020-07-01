@@ -58,23 +58,23 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11160}
+      Script: {instanceID: 11156}
     - Class: 114
-      Script: {instanceID: 11318}
+      Script: {instanceID: 11188}
     - Class: 114
-      Script: {instanceID: 11454}
+      Script: {instanceID: 11316}
     - Class: 114
-      Script: {instanceID: 11744}
+      Script: {instanceID: 11452}
     - Class: 114
-      Script: {instanceID: 12574}
+      Script: {instanceID: 11742}
     - Class: 114
-      Script: {instanceID: 12606}
+      Script: {instanceID: 12572}
     - Class: 114
-      Script: {instanceID: 12640}
+      Script: {instanceID: 12604}
     - Class: 114
-      Script: {instanceID: 12956}
+      Script: {instanceID: 12638}
     - Class: 114
-      Script: {instanceID: 23684}
+      Script: {instanceID: 12954}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -110,6 +110,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
     className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: 340446d57eb7a8b77930ef0a22bfa8c8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: GameManager
   - hash:
       serializedVersion: 2
       Hash: 87ff43d2baf3385cba327d8f803a4ebb
@@ -548,13 +554,8 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 340446d57eb7a8b77930ef0a22bfa8c8
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: GameManager
   platform: 5
   scenePathNames:
   - Assets/Cartoon Cat/Cartoon Cat.unity
-  playerPath: C:/Users/user/Desktop/MyProject/BulletGame/exe/New Unity Project (2).exe
+  playerPath: "C:/Users/user/Desktop/MyProject/BulletGame/30217\uC774\uCC3D\uD6C8/New
+    Unity Project (2).exe"
